@@ -45,4 +45,8 @@ I'm currently finishing my master's degree in applied econometrics at  Universit
 
 The site is mainly about study topics and personal projects towards data science. The content covers exercises resolutions and codes for studies/projects in R, Phyton and later on LISP/Scala.
 
+
+
+I'm a self learner in the IA field with focus in good online and practical content, such as doing real word applied projects, kaggle IA projects or study materials such as open MIT/Stanford courses. With that beeing said, some certified material to cover formal fundamentals are also important. My certfications are open in the \[Certifications section](https://www.renatochaz.com/#certifications)
+
 Feel free to contact me at: renato.ch@usp.br and to enter my Discord server of Machine Learning studies (portuguese): https://discord.gg/qmrWRHMNyy
