@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = false, page = false, post = true, project = true, publication = true, talk = false}
 
 ############################
 ## Contact details
@@ -93,7 +93,7 @@ email = "renato.ch@usp.br"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "400 Avenida Trabalhador São Carlense", city = "São Carlos", region = "SP", country = "Brazil", country_code = "BR"}
+address = {street = "Avenida Trabalhador São Carlense 400", city = "São Carlos", region = "SP", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
