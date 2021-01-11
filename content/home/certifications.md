@@ -44,7 +44,7 @@ item:
   date_start: "2019-04-11"
   description: ""
   organization: DataCamp
-  organization_url: https://www.datacamp.com
+  organization_url: media/intro_r.pdf
   title: Introduction to R
   url: https://learn.datacamp.com/courses/free-introduction-to-r
 ---
