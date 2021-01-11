@@ -45,4 +45,4 @@ I'm currently finishing my master's degree in applied econometrics at  Universit
 
 In the blog section i will write mainly about study topics towards data science and some personal projects. The content covers exercises resolutions and codes for studies/projects in R, Phyton and later on LISP/Scala.
 
-Feel free to contact me at: renato.ch@usp.br
+Feel free to contact me at: renato.ch@usp.br and to enter my Discord server of Machine Learning studies (mainly in portuguese): https://discord.gg/qmrWRHMNyy
