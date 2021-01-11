@@ -47,6 +47,6 @@ The site is mainly about study topics and personal projects towards data science
 
 
 
-I'm a self learner in the IA field with focus in good online and practical content, such as doing real word applied projects, kaggle IA projects or study materials such as open MIT/Stanford courses. With that beeing said, some certified material to cover formal fundamentals are also important. My certfications are open in the [*Certifications section*](#certifications)
+I'm a self learner in the IA field with focus in good online and practical content, such as doing real word applied projects, kaggle IA projects or study materials such as open MIT/Stanford courses. With that beeing said, some certified material to cover formal fundamentals are also important. My certfications are open in the [Certifications section](#certifications)
 
-Feel free to contact me at: renato.ch@usp.br and to enter my Discord server of Machine Learning studies (portuguese): https://discord.gg/qmrWRHMNyy
+Feel free to contact me at: renato.ch@usp.br and to enter my Discord server of machine learning studies (portuguese): https://discord.gg/qmrWRHMNyy
