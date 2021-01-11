@@ -43,6 +43,6 @@ highlight_name: false
 ---
 I'm currently finishing my master's degree in applied econometrics at  University of São Paulo - Department of Production Engineer/São Carlos, southeast of Brazil. I'm passionate about statistics and data analysis, particularly in the applied IA field with a tendency to work with financial data. You cand find more details about my past and current work (as well as my study notebooks) in the Projects and Study tabs.
 
-The site is mainly about study topics towards data science and some personal projects. The content covers exercises resolutions and codes for studies/projects in R, Phyton and later on LISP/Scala.
+The site is mainly about study topics and personal projects towards data science. The content covers exercises resolutions and codes for studies/projects in R, Phyton and later on LISP/Scala.
 
 Feel free to contact me at: renato.ch@usp.br and to enter my Discord server of Machine Learning studies (portuguese): https://discord.gg/qmrWRHMNyy
