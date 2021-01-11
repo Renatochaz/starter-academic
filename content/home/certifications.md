@@ -39,7 +39,7 @@ item:
   organization_url: https://www.datacamp.com
   title: Intermediate R
   url: https://learn.datacamp.com/courses/intermediate-r
-- certificate_url: https://www.datacamp.com
+- certificate_url: media/intro_r.pdf
   date_end: ""
   date_start: "2019-04-11"
   description: ""
