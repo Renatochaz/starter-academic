@@ -2,12 +2,12 @@
 title: Renato M. Chavez
 role: Master's Student of Econometrics
 avatar_filename: whatsapp-image-2021-01-07-at-21.54.33.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research and work interests include statistics, machine learning and
+  econometrics.,
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Statistics
+  - IA
+  - MachineLearning
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +42,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I'm currently finishing my master's degree in applied econometrics at  University of São Paulo - Department of Production Engineer/São Carlos, southeast of Brazil. I'm passionate about statistics and data analysis, particularly in the applied IA field with a tendency to work with financial data. You cand find more details about my past and current work (as well as my study notebooks) in the Projects and Study tabs.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In the blog section i will write mainly about study topics towards data science and some personal projects. The content covers exercises resolutions and codes for studies/projects in R, Phyton and later on LISP/Scala.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Feel free to contact me at: renato.ch@usp.br
