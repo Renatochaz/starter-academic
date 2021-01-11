@@ -6,38 +6,32 @@ bio: My research and work interests include statistics, machine learning and
   econometrics.,
 interests:
   - Statistics
-  - IA
-  - MachineLearning
+  - Machine Learning
+  - Finance
+  - R
+  - Phyton
+  - Scala
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Renatochaz
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/renato-chavez/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of São Paulo
+    url: https://www5.usp.br/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Corporate Finance and Econometrics
+      institution: University of São Paulo
+      year: 2021
+    - course: BSc in Production Engineering
+      institution: Centro Universitário Central Paulista
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
