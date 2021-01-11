@@ -29,7 +29,7 @@ item:
   description: ""
   organization: USP
   organization_url: https://www5.usp.br/
-  title: 'Master's classes at USP'
+  title: "Master's courses at USP"
   url: ""
 - certificate_url: https://www.datacamp.com
   date_end: ""
