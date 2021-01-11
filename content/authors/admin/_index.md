@@ -21,6 +21,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/renato-chavez/
+  - display:
+      header: false
+    link: https://www.instagram.com/renatochaz/
+    icon_pack: fab
+    icon: instagram
 organizations:
   - name: University of São Paulo
     url: https://www5.usp.br/
