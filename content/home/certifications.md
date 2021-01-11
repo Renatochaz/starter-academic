@@ -23,17 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: https://www.datacamp.com
   date_end: ""
   date_start: "2021-01-14"
-  description: Classes finished for my Master's degree:
-a
-b
+  description: ""
   organization: USP
   organization_url: https://www5.usp.br/
-  title: Master's classes at USP
+  title: 'Master classes at USP'
   url: ""
-- certificate_url: 
+- certificate_url: https://www.datacamp.com
   date_end: ""
   date_start: "2019-05-15"
   description: ""
@@ -41,12 +39,12 @@ b
   organization_url: https://www.datacamp.com
   title: Intermediate R
   url: https://learn.datacamp.com/courses/intermediate-r
-- certificate_url: 
+- certificate_url: https://www.datacamp.com
   date_end: ""
   date_start: "2019-04-11"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Introduction to R'
-  url: "https://learn.datacamp.com/courses/free-introduction-to-r"
+  title: Introduction to R
+  url: https://learn.datacamp.com/courses/free-introduction-to-r
 ---
