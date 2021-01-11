@@ -23,28 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2021-01-14"
+  description: Classes finished for my Master's degree:
+a
+b
+  organization: USP
+  organization_url: https://www5.usp.br/
+  title: Master's classes at USP
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  date_start: "2019-05-15"
+  description: ""
+  organization: Datacamp
+  organization_url: https://www.datacamp.com
+  title: Intermediate R
+  url: https://learn.datacamp.com/courses/intermediate-r
+- certificate_url: 
   date_end: ""
   date_start: "2019-04-11"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Introduction to R'
-  url: "{{% staticref "media/intro_r.pdf" "newtab" %}}Link{{% /staticref %}}"
+  url: "https://learn.datacamp.com/courses/free-introduction-to-r"
 ---
