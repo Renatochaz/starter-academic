@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-#- icon: twitter
- # icon_pack: fab
-  #name: Follow
-  #url: https://twitter.com/georgecushen
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/Renatochaz/L1---Demand-Forecasting
 url_code: ""
 url_pdf: ""
 url_slides: ""
