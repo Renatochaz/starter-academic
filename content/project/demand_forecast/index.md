@@ -34,7 +34,7 @@ slides: ""
 
 *** This is a private work, data isn't avaliable and identification of the client is omitted ***
 
-* All code avaliable are in the [github repository](https://github.com/Renatochaz/L1---Demand-Forecasting) linked in this post. Feel free to access, comment, star or fork, interactions motivate me to produce and share more content for free, and suggestions to improvement are always viewed in a positive light! :)
+* The shareable code and notebooks are in the [github repository](https://github.com/Renatochaz/L1---Demand-Forecasting) linked in this post. Feel free to access, comment, star or fork, interactions motivate me to produce and share more content for free, and suggestions to improvement are always viewed in a positive light! :)
 
 A local supermarket chain was interested in forecasting their produce section, they manually estimated when to buy and had a huge waste of food going bad before selling.
 
