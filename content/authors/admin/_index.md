@@ -3,7 +3,7 @@ title: Renato M. Chavez
 role: Master's Student of Econometrics
 avatar_filename: avatar.jpg
 bio: My research and work interests include statistics, machine learning and
-  econometrics.,
+  econometrics.
 interests:
   - Statistics
   - Machine Learning
