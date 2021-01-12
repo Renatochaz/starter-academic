@@ -34,6 +34,8 @@ slides: ""
 
 *** This is a private work, data isn't avaliable and identification of the client is omitted ***
 
+* Feel free to access, comment, star or fork the [github repository](https://github.com/Renatochaz/L1---Demand-Forecasting) linked in this post. Interactions motivate me to produce and share more content for free, and suggestions to improvement are always viewed in a positive light! :)
+
 A local supermarket chain was interested in forecasting their produce section, they manually estimated when to buy and had a huge waste of food going bad before selling.
 
 Their database had over 20 years of information from all stores, the data was unustructured when minned. We made a functional code to structure the data and propposed a SARIMA model with paramater variation for every item in the produce section.
