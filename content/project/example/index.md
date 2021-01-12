@@ -48,9 +48,9 @@ Below are some images of the work
 
 {{< figure src="clean_data.jpg" title="Data after processing in R" numbered="true" >}}
 
-{{< figure src="plot_time_data.jpg" title="Time series plot for analysis" numbered="true" >}}
+{{< figure src="plot_time_data.jpeg" title="Time series plot for analysis" numbered="true" >}}
 
-{{< figure src="decomposition.jpg" title="Plots of autocorrelation in the SARIMA model" numbered="true" >}}
+{{< figure src="decomposition.jpeg" title="Plots of autocorrelation in the SARIMA model" numbered="true" >}}
 
 {{< figure src="featured.jpeg" title="Unique item weekly forecast with 80% accuracy" numbered="true" >}}
 
