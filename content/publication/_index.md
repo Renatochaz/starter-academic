@@ -8,6 +8,8 @@ title: Publications
 #   4 = Citation
 view: 4
 
+active: false
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
