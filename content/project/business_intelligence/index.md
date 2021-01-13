@@ -33,7 +33,7 @@ slides: ""
 
 *** This is a private work, data isn't avaliable ***
 
-* The shareable code and notebooks are in the [github repository](https://github.com/Renatochaz/L2---Business-Inteligence-) linked in this post. Feel free to access, comment, star or fork, interactions motivate me to produce and share more content for free, and suggestions to improvement are always viewed in a positive light! :)
+* The shareable code and notebooks are in the [github repository](https://github.com/Renatochaz/L2---Business-Inteligence-) linked in this post. Feel free to access, comment, star or fork, interactions motivate me to produce and share more content for free, and suggestions to improvement are always viewed in a positive light!
 
 Work done to a local restaurant with financial and operational problems. We collected financial and operational data from one year in a unstructured state, with over 50 sheets of information without standardize practices and unconsolidated data.
 
