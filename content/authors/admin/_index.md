@@ -47,9 +47,9 @@ I'm currently finishing my master's degree in applied econometrics at  Universit
 
 The site is mainly about study topics and personal projects towards data science. The content covers exercises resolutions and codes for studies/projects in R, Phyton and later on LISP/Scala.
 
-You cand find more details and open codes about my past and current work (as well as my study notebooks) in the [Projects](#projects) and [Study](#study) sections.
+You can find more details and open codes about my past and current work (as well as my study notebooks) in the [Projects](#projects) and [Study](#study) sections.
 
-My master's dissertation econometric research code is fully open for researches interested in studying the functional programming used in R to clean financial data, do regression models and data visualization. The most complex econometrics models using System-GMM are also avaliable in Stata language. Feel free to check it at [Master's project page.]({{< ref "/project/masters_project" >}})
+My master's dissertation econometric research code is fully open for researches interested in studying the functional programming used in R to clean financial data, do regression models and data visualization. The most complex econometrics models using System-GMM are also avaliable in Stata language. The repository link and a short description are in the [Master's project page.]({{< ref "/project/masters_project" >}})
 
 
 Feel free to contact me at: renato.ch@usp.br and to enter my Discord server of machine learning studies (portuguese): https://discord.gg/qmrWRHMNyy
