@@ -45,7 +45,7 @@ slides: ""
 
 - [Project 0](https://github.com/Renatochaz/SICP/blob/master/Projects/project0.scm)
 
-**Solved exercises **
+**Solved exercises**
 
 - [Section 1.1](https://github.com/Renatochaz/SICP/blob/master/Exercises_notes/section1-1.scm)
 
