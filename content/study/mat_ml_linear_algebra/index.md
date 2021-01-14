@@ -1,5 +1,5 @@
 ---
-title: Mathematics for Machine Learning: Linear Algebra
+title: "Mathematics for Machine Learning: Linear Algebra"
 summary: Resources and help in exercises for Linear Algebra
 tags: 
 - Mathematics for Machine Learning
