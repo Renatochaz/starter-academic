@@ -52,4 +52,4 @@ You can find more details and open codes about my past and current work (as well
 My master's dissertation econometric research code is fully open for researches interested in studying the functional programming used in R to clean financial data, do regression models and data visualization. The most complex econometrics models using System-GMM are also avaliable in Stata language. The repository link and a short description are in the [Master's project page.]({{< ref "/project/masters_project" >}})
 
 
-Feel free to contact me at: renato.ch@usp.br and to enter my Discord server of machine learning studies (portuguese): https://discord.gg/qmrWRHMNyy
+Feel free to contact me at: renato.ch@usp.br and to our Discord community of machine learning studies (portuguese): https://discord.gg/qmrWRHMNyy
