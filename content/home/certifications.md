@@ -24,12 +24,52 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
-  date_end: ""
-  date_start: "2021-01-14"
+  date_end: "19-11-20"
+  date_start: "25-08-20"
   description: ""
-  organization: USP
-  organization_url: https://www5.usp.br/
-  title: "Master's courses at USP"
+  organization: USP/ICMC
+  organization_url: https://www.icmc.usp.br/
+  title: "Modelos de Regressão"
+  url: ""
+- certificate_url: media/metodos_quantitativos.pdf
+  date_end: "25-05-20"
+  date_start: "10-03-20"
+  description: ""
+  organization: USP/EESC
+  organization_url: https://eesc.usp.br/
+  title: "Métodos Quantitativos em Economia e finanças"
+  url: ""
+- certificate_url: media/analise_multivariada_politicas_sociais.pdf
+  date_end: "27-11-19"
+  date_start: "07-08-19"
+  description: ""
+  organization: USP/FEA-RP
+  organization_url: hhttps://www.fearp.usp.br/
+  title: "Análise Multivariada Aplicada a Contabilidade"
+  url: ""
+- certificate_url: media/analise_multivariada_politicas_sociais.pdf
+  date_end: "13-11-19"
+  date_start: "01-08-19"
+  description: ""
+  organization: USP/FEA-RP
+  organization_url: https://www.fearp.usp.br/
+  title: "Avaliação de Políticas Sociais (Análise de impacto de tratamentos)"
+  url: ""
+- certificate_url: media/metodos_avancados.pdf
+  date_end: "03-07-19"
+  date_start: "13-03-19"
+  description: ""
+  organization: USP/FEA-RP
+  organization_url: https://www.fearp.usp.br/
+  title: "Métodos Quantitativos Avançados"
+  url: ""
+- certificate_url: media/gerenciamento_agil.pdf
+  date_end: "25-06-18"
+  date_start: "12-03-18"
+  description: ""
+  organization: USP/EESC
+  organization_url: https://eesc.usp.br/
+  title: "Gerenciamento ágil de projetos"
   url: ""
 - certificate_url: media/intermediate_r.pdf
   date_end: ""
