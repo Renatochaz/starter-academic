@@ -1,6 +1,7 @@
 ---
 title: P2P Credit scoring 
-summary: Credit scoring research in P2P lending system using LendingClub data.
+summary: Credit scoring research in P2P lending system using LendingClub data
+tags:
 - Credit scoring
 - P2P
 - Lending
