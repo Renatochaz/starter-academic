@@ -22,6 +22,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/renato-chavez/
+  - icon: discord
+    icon_pack: fab
+    link: https://discord.gg/qmrWRHMNyy
   - display:
       header: false
     link: https://www.instagram.com/renatochaz/
@@ -52,4 +55,4 @@ You can find more details and open codes about my past and current work (as well
 My master's dissertation econometric research code is fully open for researches interested in studying the functional programming used in R to clean financial data, do regression models and data visualization. The most complex econometrics models using System-GMM are also avaliable in Stata language. The repository link and a short description are in the [Master's project page.]({{< ref "/project/masters_project" >}})
 
 
-Feel free to contact me at: renato.ch@usp.br and to our Discord community of machine learning studies (portuguese): https://discord.gg/qmrWRHMNyy
+Feel free to contact me at: renato.ch@usp.br and to join our Discord community of machine learning studies (portuguese) linked in the author social links.

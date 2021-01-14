@@ -32,17 +32,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+* Notebooks (in Scheme) with resolutions and annotation of projects and exercises of the classic Structure and Interpretation of Computer Programs from MIT.
 * The shareable code and notebooks are in the [github repository](https://github.com/Renatochaz/SICP) linked in this post. Feel free to access, comment, star or fork, interactions motivate me to produce and share more content for free, and suggestions to improvement are always viewed in a positive light! 
 * This course study in currently paused.
 
-Notebooks (in Scheme) with resolutions and annotation of projects and exercises of the classic Structure and Interpretation of Computer Programs from MIT taught by Prof. Eric Grimson, Prof. Peter Szolovits and Prof. Trevor Darrell in Spring 2005.
-
-Basic course description (From MIT OCW): 
-"This course introduces students to the principles of computation. Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems. Substantial weekly programming assignments are an integral part of the course."
+**Basic course description (From MIT OCW)**
+*This course introduces students to the principles of computation. Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems. Substantial weekly programming assignments are an integral part of the course.*
 
 [Book used for exercises](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-
-Below are the description of available solved exercises and projects in the github repository.
 
 **Projects**
 
