@@ -45,6 +45,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Hello i'm Maria Antonia
+
 I'm currently finishing my master's degree in applied econometrics at  University of São Paulo - Department of Production Engineer/São Carlos, southeast of Brazil. I'm passionate about statistics and data analysis, particularly in the applied IA field with a tendency to work with financial data. I'm a self learner in the IA field with focus in good online and practical content, such as doing real word applied projects, kaggle IA projects or study materials such as open MIT/Stanford courses. With that beeing said, some certified material to cover formal fundamentals are also important. My certfications are open in the [Certifications section.](#certifications)
 
 
