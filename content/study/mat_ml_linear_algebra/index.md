@@ -71,7 +71,7 @@ Available notes and exercises resolutions:
   >
   > Inverse matrix
 
-- [Week 4](https://github.com/Renatochaz/mathematics_for_ML-Linear_algebra/blob/master/week4.ipynb) 
+- [Week 4](https://github.com/Renatochaz/mathematics_for_ML-Linear_algebra/blob/master/Week4.ipynb) 
 
   > Einstein summation
   >
