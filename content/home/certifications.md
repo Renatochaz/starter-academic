@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Coursera/Imperial College London
   organization_url: https://coursera.org
-  title: Mathematics for machine learning: Linear algebra
+  title: "Mathematics for machine learning: Linear algebra"
   url: https://www.coursera.org/learn/linear-algebra-machine-learning
 - certificate_url: "" 
   date_end: "2020-11-19"
