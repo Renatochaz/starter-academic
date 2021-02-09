@@ -41,27 +41,71 @@ The aim of my repository is to give students learning Multivariate Calculus (in 
 
 Available notes and exercises resolutions:
 
-- [Week 1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week1.ipynb) 
+- # Multivariate Calculus
 
-  > Differentiation and definition of a derivative;
-  >
-  > Sum rule;
-  >
-  > Power rule;
-  >
-  > Special cases derivative;
-  >
-  > Product rule;
-  >
-  > Chain rule;
-  >
-  > All around application.
+  - [Week1](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week1.ipynb): 
 
-- [Week 2]
+    > Differentiation and definition of a derivative;
+    >
+    > Sum rule;
+    >
+    > Power rule;
+    >
+    > Special cases derivative;
+    >
+    > Product rule;
+    >
+    > Chain rule;
+    >
+    > All around application.
+    >
+    > 
 
-  > ....
-  >
-  
+  - [Week2](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week2.ipynb):
+
+    > Dependent and independent variables;
+    >
+    > Extension to multivariate differentiation;
+    >
+    > Multivariate complex example;
+    >
+    > Multivariate partial differentiation;
+    >
+    > Jacobian vector;
+    >
+    > Hessian matrix.
+
+  - [Week3](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week3.ipynb):
+
+    > Multivariate chain rule;
+    >
+    > Neural network in matrix form;
+    >
+    > Applied NN with the chain rule
+
+  - [Week4](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week4.ipynb):
+
+    > Why approximate function;
+    >
+    > Power series;
+    >
+    > Maclaurin series;
+    >
+    > Taylor series;
+    >
+    > Linearisation;
+    >
+    > Multivariate taylor series.
+
+  - [Week5](https://github.com/Renatochaz/Mathematics_for_Machine_Learning/blob/master/calculus_week5.ipynb):
+
+    > One dimensional newton-raphson;
+    >
+    > Gradient descent;
+    >
+    > Constrained optimisation.
+
+  - Week 6 not provided.
 
 **Basic course description (From Imperial College London course)**
 *This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. We start at the very beginning with a refresher on the “rise over run” formulation of a slope, before converting this to the formal definition of the gradient of a function. We then start to build up a set of tools for making calculus easier and faster. Next, we learn how to calculate vectors that point up hill on multidimensional surfaces and even put this into action using an interactive game. We take a look at how we can use calculus to build approximations to functions, as well as helping us to quantify how accurate we should expect those approximations to be. We also spend some time talking about where calculus comes up in the training of neural networks, before finally showing you how it is applied in linear regression models. This course is intended to offer an intuitive understanding of calculus, as well as the language necessary to look concepts up yourselves when you get stuck. Hopefully, without going into too much detail, you’ll still come away with the confidence to dive into some more focused machine learning courses in future.*
