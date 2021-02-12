@@ -22,7 +22,16 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# 
 item:
+- certificate_url: https://coursera.org/share/bf7ceddd09f2832ab2a8735c29230eaf
+  date_end: "2021-02-12"
+  date_start: "2021-01-25"
+  description: ""
+  organization: Coursera/Imperial College London
+  organization_url: https://coursera.org
+  title: "Mathematics for machine learning: Principal Component Analysis"
+  url: https://www.coursera.org/learn/pca-machine-learning
 - certificate_url: https://coursera.org/share/238cf17c6d93fd33c06e178e90f168e2
   date_end: "2021-02-09"
   date_start: "2021-01-22"
@@ -30,7 +39,7 @@ item:
   organization: Coursera/Imperial College London
   organization_url: https://coursera.org
   title: "Mathematics for machine learning: Multivariate Calculus"
-  url: https://www.coursera.org/learn/linear-algebra-machine-learning
+  url: https://www.coursera.org/learn/multivariate-calculus-machine-learning
 - certificate_url: https://coursera.org/share/012fc5279d4f2b453d11387ec341738f
   date_end: "2021-01-21"
   date_start: "2021-01-10"
