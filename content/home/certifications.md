@@ -48,8 +48,8 @@ item:
   organization_url: https://coursera.org
   title: "Mathematics for machine learning: Linear algebra"
   url: https://www.coursera.org/learn/linear-algebra-machine-learning
-- certificate_url: "" 
-  date_end: "2020-11-19"
+- certificate_url: "media/modelos_de_regressao.pdf" 
+  date_end: "2020-12-17"
   date_start: "2020-08-25"
   description: "Foco em modelos de regressão generalizados"
   organization: USP/ICMC
