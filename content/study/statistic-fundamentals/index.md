@@ -45,32 +45,61 @@ I hope this repository help you understand the most essential statistics topics,
 
 *Note that the books are in Portuguese, so all content will be in Portuguese for simplicity. If you wish to translate it, feel free to do so! Just don't forget to link the credits =)
 
+
+
+**Sumário de exercícios**
+
+- [Parte 2](https://github.com/Renatochaz/statistic-fundamentals/blob/master/exercises/P2/)
+
+  - [Probabilidades](https://github.com/Renatochaz/statistic-fundamentals/blob/master/exercises/P2/probabilidades.ipynb)
+  - [Variáveis aleatórias - Discretas](https://github.com/Renatochaz/statistic-fundamentals/blob/master/exercises/P2/vas_discretas.ipynb)
+  - ...
+
+  
+
 **Parte 1 - Análise Exploratória de Dados**
 
-- [Tipos de variáveis e medidas resumo](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P1-variavies-medidas.ipynb).
-  - Variáveis qualitativas e quantitativas;
-  - Medidas de posição;
-  - Medidas de dispersão;
-  - Quantis;
-  - Box-plot;
-  - Transformações básicas;
-- Análise bidimensional
+- [Tipos de variáveis e medidas resumo](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P1-analise-exploratoria/variaveis-medidas.ipynb).
+  - Variáveis qualitativas e quantitativas
+  - Medidas de posição
+  - Medidas de dispersão
+  - Quantis
+  - Box-plot
+  - Transformações básicas
+
+- [Análise bidimensional](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P1-analise-exploratoria/analise-bidimensional.ipynb).
   - Importância
-  - Bidimensional quantitativa
-  - Bidimensional qualitativa
-  - Associação quantitativa e qualitativa
-  - Gráfico qxq
-  - Problemas de estudo
-
-
-
+  - Análise de interação de variáveis qualitativas
+  - Medidas de associação de variáveis qualitativas
+  - Análise de interação de variáveis quantitativas
+  - Medidas de associação de variáveis quantitativas
+  - Análise e medidas de associação entre variável qualitativa com quantitativa
 
 
 **Parte 2 - Probabilidades**
 
-- ....
+- [Probabilidades](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades/probabilidades.ipynb). 
+  - Introdução
+  - Propriedades
+  - Probabilidade condicional e independência
+  - Teorema de Bayes
+  - Probabilidades subjetivas
 
+- [Variáveis aleatórias discretas](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades/variaveis-aleatorias-discretas.ipynb).
+  - Introdução e conceitos
+  - Valor médio, variância e propriedades de variáveis aleatórias
+  - Função de distribuição acumulada
+  - Distribuição uniforme
+  - Distribuição de Bernoulli
+  - Distribuição Binomial
+  - Distribuição Hipergeométrica
+  - Distribuição de Poisson
 
+Propriedades distribuições para v.a's discretas
+![Resumo distribuições para v.a's discretas](G:\Meu Drive\GIT\statistic-fundamentals\media\mods_discretas.jpg)
+
+- [Variáveis aleatórias contínuas](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades/variaveis-aleatorias-discretas.ipynb).
+  - ...
 
 
 
