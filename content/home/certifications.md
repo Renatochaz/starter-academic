@@ -24,13 +24,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 # 
 item:
+- certificate_url: https://coursera.org/share/428d1d194cbdbed3cc6420ef297e7b4e
+  date_end: "2021-03-16"
+  date_start: "2021-02-25"
+  description: ""
+  organization: Coursera/Duke University
+  organization_url: https://coursera.org
+  title: "Managing Big Data with MySQL"
+  url: https://www.coursera.org/learn/analytics-mysql
 - certificate_url: https://coursera.org/share/bf7ceddd09f2832ab2a8735c29230eaf
   date_end: "2021-02-12"
   date_start: "2021-01-25"
   description: ""
   organization: Coursera/Imperial College London
   organization_url: https://coursera.org
-  title: "PCA"
+  title: "Mathematics for machine learning: Principal Component Analysis"
   url: https://www.coursera.org/learn/pca-machine-learning
 - certificate_url: https://coursera.org/share/238cf17c6d93fd33c06e178e90f168e2
   date_end: "2021-02-09"
