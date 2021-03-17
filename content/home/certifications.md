@@ -30,17 +30,8 @@ item:
   description: ""
   organization: Coursera/Imperial College London
   organization_url: https://coursera.org
-  title: "Mathematics for machine learning: Principal Component Analysis"
+  title: "PCA"
   url: https://www.coursera.org/learn/pca-machine-learning
-item:
-- certificate_url: https://coursera.org/share/428d1d194cbdbed3cc6420ef297e7b4e
-  date_end: "2021-03-16"
-  date_start: "2021-02-25"
-  description: ""
-  organization: Coursera/Duke University
-  organization_url: https://coursera.org
-  title: "Managing Big Data with MySQL"
-  url: https://www.coursera.org/learn/analytics-mysql
 item:
 - certificate_url: https://coursera.org/share/bf7ceddd09f2832ab2a8735c29230eaf
   date_end: "2021-02-12"
