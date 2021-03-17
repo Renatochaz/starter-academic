@@ -32,15 +32,6 @@ item:
   organization_url: https://coursera.org
   title: "PCA"
   url: https://www.coursera.org/learn/pca-machine-learning
-item:
-- certificate_url: https://coursera.org/share/bf7ceddd09f2832ab2a8735c29230eaf
-  date_end: "2021-02-12"
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera/Imperial College London
-  organization_url: https://coursera.org
-  title: "Mathematics for machine learning: Principal Component Analysis"
-  url: https://www.coursera.org/learn/pca-machine-learning
 - certificate_url: https://coursera.org/share/238cf17c6d93fd33c06e178e90f168e2
   date_end: "2021-02-09"
   date_start: "2021-01-22"
