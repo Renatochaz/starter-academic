@@ -32,6 +32,14 @@ item:
   organization_url: https://coursera.org
   title: "Managing Big Data with MySQL"
   url: https://www.coursera.org/learn/analytics-mysql
+- certificate_url: https://analytics.google.com/analytics/academy/certificate/k7zhQ5LFQDms1G0sGZrKxA
+  date_end: "2021-03-18"
+  date_start: "2021-03-12"
+  description: ""
+  organization: Google Analytics Academy
+  organization_url: https://analytics.google.com/analytics/academy/
+  title: "Introduction to Data Studio"
+  url: https://www.coursera.org/learn/analytics-mysql
 - certificate_url: https://coursera.org/share/bf7ceddd09f2832ab2a8735c29230eaf
   date_end: "2021-02-12"
   date_start: "2021-01-25"
@@ -87,6 +95,14 @@ item:
   organization: USP/FEA-RP
   organization_url: https://www.fearp.usp.br/
   title: Avaliação de Políticas Sociais
+  url: ""
+- certificate_url: https://analytics.google.com/analytics/academy/certificate/ysTVMzLyQRifVZUB10GCUg
+  date_end: "2019-09-20"
+  date_start: "2019-09-01"
+  description: ""
+  organization: Google Analytics Academy
+  organization_url: https://analytics.google.com/analytics/academy/
+  title: Google Analytics for Beginners
   url: ""
 - certificate_url: media/metodos_avancados.pdf
   date_end: "2019-07-03"
