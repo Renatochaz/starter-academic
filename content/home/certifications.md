@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 # 
 item:
+- certificate_url: https://coursera.org/share/97a9a1fee0662ad43b5520fad3bc3fc4
+  date_end: "2021-03-19"
+  date_start: "2021-02-25"
+  description: ""
+  organization: Coursera/Duke University
+  organization_url: https://coursera.org
+  title: "Data Visualization and Communication with Tableau"
+  url: https://www.coursera.org/learn/analytics-tableau
 - certificate_url: https://coursera.org/share/428d1d194cbdbed3cc6420ef297e7b4e
   date_end: "2021-03-16"
   date_start: "2021-02-25"
