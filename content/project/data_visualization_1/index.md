@@ -106,7 +106,7 @@ When we look at the contrast of political uncertainty x investment, it becomes c
 
 We can also look at specific economic sectors. When looking at the chemical sector,  we can see that it looks like it is almost unaffected by crises or uncertainty, although it had some falls, it remains less sensitive that the overall scenario.
 
-{{< figure src="inv1.jpg" title="Chemical sector" numbered="true" >}}
+{{< figure src="inv2.jpg" title="Chemical sector" numbered="true" >}}
 
 
 
